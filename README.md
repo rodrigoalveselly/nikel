@@ -1,3 +1,3 @@
-# nikel
+# PROJETO CODAI - Rodrigo Alves de Elly
 
-Este é um repositório de exemplo para o PROJETO CODAI!
+## Projeto realizado para processo seletivo do programa Despertar Dev da Growdev.
